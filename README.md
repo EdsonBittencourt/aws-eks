@@ -1,4 +1,7 @@
 
+![Logo](https://i.ibb.co/xz1YBXC/maxresdefault.jpg)
+
+
 # AWS-EKS 
 
 Arquivos .tf para provisionar um cluster EKS na AWS. Necessario instalacao de AWS-CLI e wget. Configurar AWS-CLI com dados da conta que terá o cluster criado.
